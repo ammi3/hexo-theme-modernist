@@ -1,0 +1,27 @@
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname:
+
+toc: true
+
+widgets:
+#- category
+# - tag
+#- tagcloud
+# - archive
+# - recent_posts
+#- blogroll
+
+mathjax:
+  enable: true
+  cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+google_analytics:
+
+favicon: https://supers1.oss-cn-hangzhou.aliyuncs.com/favicons.png
